@@ -1,0 +1,15 @@
+## An cow for golang. Created by: swarvanusg
+$the_cow = <<EOC;
+ $thoughts    
+  $thoughts
+   $thoughts   
+       _____  -----------------  _____
+      |     \/  ----     ----  \/     |
+       \  ==/  /    |   |    \  \==  /
+        \--/  | ()  |   |()   |  \--/
+          /    \---/ ___ \---/    \
+         |         _(===)_         |
+        |         (__/--\__)        |
+         |          |_||_|         |
+          \                       /    
+EOC
