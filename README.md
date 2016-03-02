@@ -1,5 +1,5 @@
 # gocow
-A Golang Cow file -- A time pass output :D
+A Golang Cow file -- A time pass output
 
 ```
  _______________
